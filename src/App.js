@@ -43,6 +43,11 @@ function App() {
             message: 'Awesome! You are a telepath!',
             end: true,
           },
+           {
+            id: '6',
+            message: 'Wrong answer, try again.',
+            trigger: '5',
+          },
         ]}
         floating={true}
       />
