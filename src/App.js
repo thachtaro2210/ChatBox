@@ -44,7 +44,12 @@ function App() {
             end: true,
           },
            {
-            id: '6',
+            id: '8',
+            message: 'Wrong answer, try again.',
+            trigger: '5',
+          },
+          {
+            id: '9',
             message: 'Wrong answer, try again.',
             trigger: '5',
           },
