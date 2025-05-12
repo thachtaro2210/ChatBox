@@ -53,6 +53,11 @@ function App() {
             message: 'Wrong answer, try again.',
             trigger: '5',
           },
+           {
+            id: '10',
+            message: 'Wrong answer, try again.',
+            trigger: '5',
+          },
         ]}
         floating={true}
       />
